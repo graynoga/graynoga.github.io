@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Julias Seite",
+    "section": "",
+    "text": "This is a Julia website.\nTo learn more about Julia websites visit https://quarto.org/docs/websites.\nSommer, Sonne, Sonnenschein"
+  }
+]
